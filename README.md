@@ -176,4 +176,4 @@ clrscr();
 ## Result :
 
 
-   Thus the Two-Dimensional Transformations using a c program is implemented successfully. 
+Thus to write a c program to implement 2D transformation of image is implemented successfully.
